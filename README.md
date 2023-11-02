@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh-1211&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh-1211" /> </p>
 
-- 🌱 I’m currently learning **Java Full Stack Development with SpringBoot**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **karfanilesh@gmail.com**
 
